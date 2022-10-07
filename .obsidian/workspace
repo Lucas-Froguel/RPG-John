@@ -7,11 +7,9 @@
         "id": "4014867349d491e8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Maurice.md",
-            "mode": "preview",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-10-06 23.12.46.excalidraw.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maurice.md",
+                "file": "Excalidraw/Drawing 2022-10-06 23.12.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maurice.md",
+                "file": "Excalidraw/Drawing 2022-10-06 23.12.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maurice.md"
+                "file": "Excalidraw/Drawing 2022-10-06 23.12.46.excalidraw.md"
               }
             }
           },
@@ -138,8 +136,8 @@
   },
   "active": "4014867349d491e8",
   "lastOpenFiles": [
-    "Frases e Histórias.md",
     "Maurice.md",
+    "Frases e Histórias.md",
     "Frase.md",
     "maurice.png",
     "|locl+hs-med.md",
