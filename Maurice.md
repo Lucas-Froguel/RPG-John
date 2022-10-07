@@ -109,8 +109,8 @@ X | Furtividade | DES |
 
 |||
 :---:|:---:|:---:
-CD Magias | 8 + Proeficiência + Mod Car | 14
-Mod Ataque Magias | Proeficiência + Mod Car | 4
+CD Magias | 8 + Proeficiência + Mod Car | 13
+Mod Ataque Magias | Proeficiência + Mod Car | 5
 
 
 Level | Espaços de Magia | Magias Conhecidas/Preparadas |
