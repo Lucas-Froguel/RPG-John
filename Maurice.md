@@ -97,6 +97,7 @@ X | Furtividade | DES |
 ## Equipamento
 - Armadura de couro
 - Adaga
+- Besta Simples
 
 
 
