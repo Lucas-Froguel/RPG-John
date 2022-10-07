@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "3ff224f424356867",
+    "type": "split",
+    "children": [
+      {
+        "id": "4014867349d491e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Maurice.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5c297721926e441",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfc456272293f9e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4258f1a3837a6fd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f81b7a621d9e555",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da8a54fdb53ab142",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "ea2858d012a95fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "00db13e5837e63ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0553519096dfc57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maurice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d1214c51232015c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maurice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da0f33da1dbf6243",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8305ce736aa572b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maurice.md"
+              }
+            }
+          },
+          {
+            "id": "3c8c7c69909e6452",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4014867349d491e8",
+  "lastOpenFiles": [
+    "Frases e Histórias.md",
+    "Maurice.md",
+    "Frase.md",
+    "maurice.png",
+    "|locl+hs-med.md",
+    "reference/Gnome.md",
+    "reference/Elf.md",
+    "reference/Customizing NPCs.md",
+    "reference/Actions in Combat.md",
+    "2022-10-06.md"
+  ]
+}

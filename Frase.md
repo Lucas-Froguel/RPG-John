@@ -1,0 +1,1 @@
+Uma frase é só uma frase
