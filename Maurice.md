@@ -73,7 +73,7 @@ X | Furtividade | DES |
 
 ## Cararcterísitas e Habilidades
 - **Camuflagem de Pedra:** Bônus para se esconder em pedras
-- Visão no Escuro (36,5m)
+- Visão no Escuro Superior (36,5m)
 - **Esperteza Gnômica:** Vantagem em TR de INT, SAB e CAR contra magias
 - **Magia Svnirfneblin:** possos castar 1x por dia as magias cegueira/surdez, disfarçar-se, blur e nondetection usando a inteligência
 - **Inspiração de Bardo:** ação bônus, dar 1D6 para uma criatura que possa me ouvir até 18m. Usos igual o modificador de carisma

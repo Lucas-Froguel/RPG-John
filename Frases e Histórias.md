@@ -2,6 +2,7 @@
 - A felicidade é como uma nuvem: ela parece estar logo ali, mas na verdade está longe. E, mesmo que você chegue nela, nunca conseguirá pegá-la. 
 - Assim como o chão estável, assim é meu amor por pedras raras. 
 - Problemas são como rochas: quanto mais se quebra, mais se fazem. 
+- A intensidade importa mais que o tamanho
 - 
 
 
