@@ -3,7 +3,14 @@
 - Assim como o chão estável, assim é meu amor por pedras raras. 
 - Problemas são como rochas: quanto mais se quebra, mais se fazem. 
 - A intensidade importa mais que o tamanho
-- 
+- Uma pequena mosca pode estragar um vaso de perfume inteiro
+- O açoite é para o cavalo, o freio para o jumento e a vara para as costas do tolo
+- Os pés corta e o dano bebe quem manda mensagens pelas mãos de um tolo
+- O homem carregado do sangue de qualquer pessoa fugirá até à cova; ninguém o detenha
+- A sanguessuga tem duas filhas: Dá, Dá
+- Estas três coisas nunca se fartam e quatro nunca dizem "Basta": a sepultura, a mulher estéril, a terra sem água e o fogo
+- A sorte é...
+- O desejo que se cumpre deleita a alma
 
 
 
