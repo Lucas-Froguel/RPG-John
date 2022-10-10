@@ -41,10 +41,10 @@ Sabedoria Passiva (Percepção) | 13 |
 ## Habilidades
 ### Habilidades
 FORÇA | DES | CON | INT | SAB | CARISMA ||
-:---:|:----:|:----:|:---:|:---:|:---:|---|
+:---:|:----:|:---:|:----:|:---:|:----:|---|
  11 | 16 | 9 | 15 | 15 | 16 | **Stats** |
 +0  | +3  | -1  | +2 | +2 | +3 | **Bônus** |
- \# | X |  |  |  | X | **Teste de Resistência** |
+.  | X | . | . | . | X | **Teste de Resistência** |
 
 
 ### Perícias
@@ -60,9 +60,9 @@ X | História | INT |
 .| Intimidação | CAR |
 X | Investigação | INT |
 .| Medicina | SAB |
-.| Natureza | SAB |
+X | Natureza | SAB |
 2\*X | Percepção | SAB |
-X | Atuação | CAR |
+. | Atuação | CAR |
 X | Persuasão | CAR |
 .| Religião | INT |
 .| Prestidigitação | DES |
