@@ -19,7 +19,7 @@ Adventure_Diary:: v1
 **Level** |  3
 **Raça** |  Gnomo das Profundezas
 **Alinhamento** |  Caótico Neutro
-**Background** |  Artista
+**Background** |  Artesão Alquimista
 **Altura** | 110cm
 
 ---
@@ -56,7 +56,7 @@ FORÇA | DES | CON | INT | SAB | CARISMA ||
 .| Atletismo | FOR |
 2\*X | Blefar | CAR |
 X | História | INT |
-.| Intuição | SAB |
+X | Intuição | SAB |
 .| Intimidação | CAR |
 X | Investigação | INT |
 .| Medicina | SAB |
@@ -87,23 +87,32 @@ X | Furtividade | DES |
 ## Proeficiências
 - **Armaduras:** Armaduras Leves
 - **Armas:** Armas simples, espadas longas, rapieiras, espadas curtas, bestas de mão
-- **Ferramentas:** tambor, bandolim, (instrumento musical)
+- **Ferramentas:** tambor, bandolim, (instrumento musical), kit de venenos (?)
 
 ## Idiomas
 - Comum
 - Gnomo (alfabeto anão)
 - Subcomum
+- Gírias de ladrão
 
 ## Equipamento
 - Armadura de couro
 - Adaga
-- Besta Simples
+- Besta Simples (distância 24m/96m, 1d8 perfurante)
+- Algibeira (15cm$^3$ e/ou 3kg)
+- Carta da guilda
+- Roupas de viajante
+- Suprimentos de alquimista
+
+#### Dinheiro
+PC | PP | PE  | PO | PL
+:---:|:---:|:---:|:---:|:---:|
+0 | 0 | 0 | 150 | 0 |
 
 
 
-# Actions
 
-`button-action`
+
 
 ## Magias
 
