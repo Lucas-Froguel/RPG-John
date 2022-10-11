@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Frases e Histórias.md",
+            "file": "Maurice.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frases e Histórias.md",
+                "file": "Maurice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frases e Histórias.md",
+                "file": "Maurice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frases e Histórias.md"
+                "file": "Maurice.md"
               }
             }
           },
@@ -138,8 +138,8 @@
   },
   "active": "4014867349d491e8",
   "lastOpenFiles": [
-    "Maurice.md",
     "Frases e Histórias.md",
+    "Maurice.md",
     "Frase.md",
     "maurice.png",
     "|locl+hs-med.md",

@@ -50,7 +50,7 @@ FORÇA | DES | CON | INT | SAB | CARISMA ||
 ### Perícias
 \# | Perícia | Bônus |
 :--:|-----|:------:|
-X | Acrobacia | DES |
+. | Acrobacia | DES |
 .| Lidar com Animais | SAB |
 .| Arcanismo | INT |
 .| Atletismo | FOR |
@@ -118,8 +118,30 @@ Level | Espaços de Magia | Magias Conhecidas/Preparadas |
 0 | $\infty$ | 2 |
 1 | 4 | 4 |
 2 | 2 | 2 |
- 
- 
+
+
+
+#### Nível 0
+ - Rajada de Veneno
+ - Rajada Mística
+
+
+#### Nível 1
+- **Escudo Arcano** (reação): bônus +5 CA e imunidadde a mísseis mágicos até o início do meu próximo turno
+- **Comando**: teste de resistência de sabedoria ou seguirá meu comando
+- **Palavra Curativa**: uma criatura recupera 1d4 + mod de conjuração
+- **Repreensão Infernal** (reação): a criatura que causou dano em mim faz um teste de resistência de destreza e, caso falhe, leva 2d10 de dano, caso passe, leva metade disso
+
+#### Nível 2
+
+- **Sussuros Dissonantes** (18m): eu sussuro uma melodia dissonante que apenas uma criatura ouve e precisa realizar um teste de resistência de sabedoria. Se falhar, leva 3d6 de dano psíquico e usa sua reação para fugir
+- **Raio Ardenten** (36m): crio três raios de fogo e cada um causa 2d6 de dano de fogo
+
+
+
+
+
+
 
 # Equipment
 CP | SP | EP | GP | PP |
