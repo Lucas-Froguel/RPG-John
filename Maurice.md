@@ -130,7 +130,7 @@ Veja cada item aqui [[Manual do Alquimista#Produtos]]
 #### Dinheiro
 PC | PP | PE  | PO | PL
 :---:|:---:|:---:|:---:|:---:|
-0 | 0 | 0 | 5 | 0 |
+0 | 0 | 0 | 9 | 0 |
 
 
 

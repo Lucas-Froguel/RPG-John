@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bed31e815547bfa5",
+        "id": "0de0e070ccf99611",
         "type": "split",
         "children": [
           {
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4e801e51c86fd5f5",
+            "id": "edaa7576f6dff20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frases e Histórias.md",
+                "file": "Magias.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,8 +56,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SkullPort.md",
-                "mode": "preview",
+                "file": "Geografia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -188,14 +188,14 @@
   },
   "active": "bb9d32f16ff16b7d",
   "lastOpenFiles": [
-    "Frases e Histórias.md",
+    "Magias.md",
     "Sessões/Sessão 1.md",
-    "SkullPort.md",
+    "Frases e Histórias.md",
+    "Geografia.md",
     "Maurice.md",
     "Sessões/Sessão 0.md",
     "Images/skullport.png",
     "Excalidraw/Espaços de Magia.excalidraw.md",
-    "Magias.md",
     "Excalidraw/Drawing 2022-10-06 23.12.46.excalidraw.md",
     "Frase.md"
   ]
