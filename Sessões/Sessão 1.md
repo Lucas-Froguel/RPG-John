@@ -39,4 +39,15 @@ Voltando para a taverna, o tocha tira uma porca gigante com um monte de coisas e
 
 Carroça de repolhos e cogumelos pertencentes a Timbling, que estava desornedada. Eu castei sono e um dos cavalos dormiu. Timbling me deve um favor. 
 
-Chegamos na estalagem. Através do livro de visitantes, eu e tocha descobrimos algumas coisas interessantes. Visitantes recorrentes (1x/semana Reen). Nenhum Palandros. Há 2 semanas, última data do Palandros, existe um nome que chama a atenção: Sander'Al P.
+Chegamos na estalagem. Através do livro de visitantes, eu e tocha descobrimos algumas coisas interessantes. Visitantes recorrentes (1x/semana Reen). Nenhum Palandros. Há 2 semanas, última data do Palandros, existe um nome que chama a atenção: Sander'Al P. O taverneirose chama Quietude e  é louco por comer pássaros. Ele consegue muitos pássaros por meio do estabelecimento Ratássaro
+
+Um estabelcimento O Baú do Mar fechou pq o dono sumiu (sequestrado/morto?). Marinheiros dizendo que estão ouvindo encantos. 
+
+
+
+
+## Coisas que eu não sei
+
+A pedra mágica achada no deserto é uma gema de (...). Os agentes da ordem cujo símblo é um falcão (relacionadas a fortaleza) querem acabar com a guilda. Em extrema necessidade, Maximilian deve ir ao ratśssaro (onde está o 4° membro desse clã?). 
+As tarefas do Maximilian é monitorar uma mulher chamada Avareen e um angente da guilda chamado Yon-Du (está agindo independentement da guilda e de simbad). 
+Eles acham que Palandros está morto em undermountain

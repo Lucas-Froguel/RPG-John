@@ -45,3 +45,21 @@ A cidade tem 3 níveis (como uma favela) e tudo é meio torto, mal construído. 
 21. A urna lambusada
 22. Zilpa's: ervas e poções*
 23. O verme oco (restaurante)*
+
+
+## Guilda dos Assassinos
+Áreas de atuação e organização do Xanathar:
+
+A Cabeça: liderança da guilda
+
+O Olho:
+- Contratos
+- Informação/espionagem
+
+A mão:
+- contrabando
+- escravidão
+- assassinatos/sequestros/roubos
+Todos os integrantes sabem o mínimo a respeito do resto da guilda. 
+
+Ninguém além do consigliere e do underboss sabe quem é o Xanathar.
