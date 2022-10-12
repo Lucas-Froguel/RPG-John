@@ -59,3 +59,5 @@ Um estabelcimento O Baú do Mar fechou pq o dono sumiu (sequestrado/morto?). Mar
 A pedra mágica achada no deserto é uma gema de (...). Os agentes da ordem cujo símblo é um falcão (relacionadas a fortaleza) querem acabar com a guilda. Em extrema necessidade, Maximilian deve ir ao ratśssaro (onde está o 4° membro desse clã?). 
 As tarefas do Maximilian é monitorar uma mulher chamada Avareen e um angente da guilda chamado Yon-Du (está agindo independentement da guilda e de simbad). 
 Eles acham que Palandros está morto em undermountain
+
+Personagem do Samuel tem um totem e é um homem-lagarto. 
