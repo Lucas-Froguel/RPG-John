@@ -107,3 +107,5 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Net                        | 1 gp  | -               | 3 lb.   | Special, thrown (range 5/15)                           |
 |                            |       |                 |         |                                                        |
 
+^94f41e
+

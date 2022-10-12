@@ -14,17 +14,17 @@
 
 **Skills** Investigation +3, Perception +2, Stealth +4
 
-**Senses** darkvision 120 ft., passive Perception 12
+**Senses** darkvision 120 ft., passive Perception 12 ^bf7b40
 
 **Languages** Gnomish, Terran, Undercommon
 
 **Challenge** 1/2 (100 XP)
 
-***Stone Camouflage***. The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+***Stone Camouflage***. The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain. ^2994bf
 
-***Gnome Cunning***. The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
+***Gnome Cunning***. The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic. ^f558b0
 
-***Innate Spellcasting***. The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material Components
+***Innate Spellcasting***. The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material Components ^a4073c
 
 At will: *nondetection* (self only)
 

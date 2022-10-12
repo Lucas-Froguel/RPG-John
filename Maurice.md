@@ -15,11 +15,11 @@ Adventure_Diary:: v1
 
 ||
 ----|:---:|
-**Classe** |  Bardo
+**Classe** |  [[Bard|Bardo]]
 **Level** |  3
-**Raça** |  Gnomo das Profundezas
+**Raça** |  [[Gnome, Deep (Svirfneblin)|Gnomo das Profundezas]]
 **Alinhamento** |  Caótico Neutro
-**Background** |  Artesão Alquimista
+**Background** |  Artesão Alquimista 
 **Altura** | 110cm
 
 ---
@@ -72,22 +72,22 @@ X | Furtividade | DES |
 # Caracterísitcas
 
 ## Cararcterísitas e Habilidades
-- **Camuflagem de Pedra:** Bônus para se esconder em pedras
-- Visão no Escuro Superior (36,5m)
-- **Esperteza Gnômica:** Vantagem em TR de INT, SAB e CAR contra magias
-- **Magia Svnirfneblin:** possos castar 1x por dia as magias cegueira/surdez, disfarçar-se, blur e nondetection usando a inteligência
-- **Inspiração de Bardo:** ação bônus, dar 1D6 para uma criatura que possa me ouvir até 18m. Usos igual o modificador de carisma
-- **Versatilidade:** Adiciono metade do bônus de proeficiência a qualquer teste de habilidade que eu não tenha proeficiência
-- **Canção do Descanso:** Durante um descanso curto, quem me ouvir recupera 1D6
-- **Aptidão:** Dobro de bônus de duas períficas (marcadas com 2\*X)
-- **Colégio do Conhecimento**
+- [[Gnome, Deep (Svirfneblin)#^2994bf|Camuflagem de Pedra]]: Bônus para se esconder em pedras
+- [[Gnome, Deep (Svirfneblin)#^bf7b40|Visão no Escuro Superior]] (36,5m)
+- [[Gnome, Deep (Svirfneblin)#^f558b0|Esperteza Gnômica]]: Vantagem em TR de INT, SAB e CAR contra magias
+- [[Gnome, Deep (Svirfneblin)#^a4073c|Magia Svnirfeblin]]: possos castar 1x por dia as magias cegueira/surdez, disfarçar-se, blur e nondetection usando a inteligência
+- [[Bard#^68f838|Inspiração de Bardo]]: ação bônus, dar 1D6 para uma criatura que possa me ouvir até 18m. Usos igual o modificador de carisma
+- [[bard#^775ae7|Versatilidade]]: Adiciono metade do bônus de proeficiência a qualquer teste de habilidade que eu não tenha proeficiência
+- [[bard#^5ef873|Canção do Descanso]]:  Durante um descanso curto, quem me ouvir recupera 1D6
+- [[bard#^c8370c|Aptidão]]: Dobro de bônus de duas períficas (marcadas com 2\*X)
+- [[bard#^d0b0e3|Colégio do Conhecimento]]: 
 	- +3 proeficiências
 	- **Palavras de Interrupção:** reação, uso de inspiração de bardo, afeta uma criatura que possa me ouvir até 18m, em qualquer rolagem dela subtrai 1D6. 
 
 ## Proeficiências
-- **Armaduras:** Armaduras Leves
-- **Armas:** Armas simples, espadas longas, rapieiras, espadas curtas, bestas de mão
-- **Ferramentas:** tambor, bandolim, (instrumento musical), kit de venenos (?)
+- [[Armor|Armadura]]: Armaduras Leves
+- [[Weapons|Armas]]: [[Weapons#^94f41e|Armas Simples]], espadas longas, rapieiras, espadas curtas, bestas de mão
+- [[Tools|Ferramentas]]: tambor, bandolim, gaita,  [[tools#^19fbda|Kit de Venenos]]
 
 ## Idiomas
 - Comum
@@ -96,10 +96,10 @@ X | Furtividade | DES |
 - Gírias de ladrão
 
 ## Equipamento
-- Armadura de couro
-- Adaga
-- Besta Simples (distância 24m/96m, 1d8 perfurante)
-- Algibeira (15cm$^3$ e/ou 3kg)
+- [[armor#^e19bf0|Armadura de Couro Batido]]: CA = 12 + mod.des. = 15
+- **Adaga**
+- **Besta Simples** (distância 24m/96m, 1d8 perfurante, duas mãos, recarregar)
+- Algibeira (15cm$^3$ e/ou 3kg) 
 - Carta da guilda
 - Roupas de viajante
 - Suprimentos de alquimista

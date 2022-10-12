@@ -8,18 +8,19 @@ Mod Ataque Magias | Proeficiência + Mod Car | 5
 
 ## Magias Escolhidas
 #### Nível 0
- - [[Chill Touch|Toque Chocante]] (toque): ataque corpo-a-corpo com magia. Tenho vantagem se o alvo estiver usando armadura de metal. Dano de 1d8 elétrico
- - [[Message|Mensagem]] (36m) 
-
+ 
+ - [[Prestidigitation|Presitigitação]] (3m): crio algum efeito mágico 
+ - [[Message|Mensagem]] (36m) : Você aponta seu dedo para uma criatura dentro do alcance e sussurra uma mensagem. O alvo (e apenas ele) ouvi a mensagem e pode responder com um sussurro que apenas você pode ouvir.
 
 #### Nível 1
-- Escudo Arcano (reação): bônus +5 CA e imunidadde a mísseis mágicos até o início do meu próximo turno
-- [[Command|Comando]]: teste de resistência de sabedoria ou seguirá meu comando
-- [[Healing Word|Palavra Curativa]]: uma criatura recupera 1d4 + mod de conjuração
-- [[Hellish Rebuke|Repreensão Infernal]] (reação): a criatura que causou dano em mim faz um teste de resistência de destreza e, caso falhea, leva 2d10 de dano, caso passe, leva metade disso
+
+- [[Hideous Laughter|Riso Histérico de Tasha]] (18m): teste de resistência de sabedoria; se falhar, cai no chão e fica gargalhando
+- [[Sleep|Sono]] (27m): Jogue 5d8; o total é a quantidade de pontos de vida de criaturas afetados pela magia. As criaturas numa área de 6m de raio, centrada no ponto escolhido, dentro do alcance, são afetadas em ordem ascendente dos pontos de vida atuais delas
+- **Sussuros Dissonantes** (18m): eu sussuro uma melodia dissonante que apenas uma criatura ouve e precisa realizar um teste de resistência de sabedoria. Se falhar, leva 3d6 de dano psíquico e usa sua reação para fugir
+- [[Cure Wounds|Curar Ferimentos]] (toque): a criatura recupera 1d8+mod.conj. de pontos de vida
 
 #### Nível 2
 
-- [[Shatter|Sussuros Dissonantes]] (18m): eu sussuro uma melodia dissonante que apenas uma criatura ouve e precisa realizar um teste de resistência de sabedoria. Se falhar, leva 3d6 de dano psíquico e usa sua reação para fugir
-- [[Scorching Ray|Raio Ardente]] (36m): crio três raios de fogo e cada um causa 2d6 de dano de fogo
+- [[Suggestion|Sugestão]] (9m): teste de resistência de sabedoria; em falha, o alvo segue minha sugestão
+- [[Shatter|Despedaçar]] (18m): Cada criatura, numa esfera de 3m de raio, centrada no ponto deve fazer um teste de resistência de Constituição. Uma criatura sofre 3d8 de dano trovejante se falhar na resistência ou metade desse dano se obtiver sucesso. Criaturas de metal/inorgâncicas tem desvantagem. 
 
