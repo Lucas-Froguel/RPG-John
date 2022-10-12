@@ -2,17 +2,17 @@
 ## Mapa da Cidade
 ```leaflet
 id: leaflet-map
-image: [[Image.jpg]]
+image: [[skullport.png]]
 height: 500px
 lat: 50
 long: 50
 minZoom: 1
 maxZoom: 10
-defaultZoom: 5
+defaultZoom: 8
 unit: meters
-scale: 1
+scale: 10
 marker: default, 39.983334, -82.983330, [[Note]]
-darkMode: true
+darkMode: false
 ```
 
 

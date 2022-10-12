@@ -8,7 +8,7 @@ Campaign:: John
 Adventure_Diary:: v1
 %%
 
-# Maurice
+# Maurice (Klagg Barton)
 > (Description:: ) Um gnomo contador de histórias.
 
 ![[Frase]] <i>![|left+pt|200](maurice.png)</i>
@@ -103,6 +103,11 @@ X | Furtividade | DES |
 - Carta da guilda
 - Roupas de viajante
 - Suprimentos de alquimista
+- Bugigangas:
+	- 17: orbe de vidro preenchido com fumaça
+	- 16: uma velha carta de adivinhação com sua aparência
+	- 62: um crânio de prata do tamanho de uma moeda
+	- 40: uma pedra preciosa que parece carvão para todos exceto eu
 
 
 #### Itens de alquimia preparados:

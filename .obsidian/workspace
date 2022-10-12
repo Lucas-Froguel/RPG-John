@@ -4,22 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "fa307a705ee9f755",
-        "type": "leaf",
-        "state": {
-          "type": "obsidian-leaflet-map-view",
-          "state": {}
-        }
+        "id": "bed31e815547bfa5",
+        "type": "split",
+        "children": [
+          {
+            "id": "bb9d32f16ff16b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessões/Sessão 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e801e51c86fd5f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frases e Histórias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       },
       {
-        "id": "925131b5235b177c",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Images/Pasted image 20221012153154.png"
+        "id": "1514dc80a11b1bcc",
+        "type": "split",
+        "children": [
+          {
+            "id": "f270666764612004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maurice.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bc8c4da2a14bd63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SkullPort.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -67,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 202.5
   },
   "right": {
     "id": "ea2858d012a95fd8",
@@ -83,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20221012153154.png",
+                "file": "Sessões/Sessão 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20221012153154.png",
+                "file": "Sessões/Sessão 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20221012153154.png"
+                "file": "Sessões/Sessão 1.md"
               }
             }
           },
@@ -142,17 +186,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "925131b5235b177c",
+  "active": "bb9d32f16ff16b7d",
   "lastOpenFiles": [
+    "Frases e Histórias.md",
+    "Sessões/Sessão 1.md",
     "SkullPort.md",
-    "Excalidraw/Espaços de Magia.excalidraw.md",
     "Maurice.md",
+    "Sessões/Sessão 0.md",
+    "Images/skullport.png",
+    "Excalidraw/Espaços de Magia.excalidraw.md",
     "Magias.md",
     "Excalidraw/Drawing 2022-10-06 23.12.46.excalidraw.md",
-    "Frases e Histórias.md",
-    "Frase.md",
-    "maurice.png",
-    "|locl+hs-med.md",
-    "reference/Gnome.md"
+    "Frase.md"
   ]
 }
