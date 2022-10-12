@@ -28,11 +28,11 @@ Todas as poções tem 50mls
 - **Ácido**: Arma Improvisada de ataque a distância (6m) que causa 1d6 de dano corrosivo e pode ser usado para derreter trancas, fechaduras ou outros utensílios menores.
 - **Água Benta**: Arma improvisada a distância (6m) que também pode consagrar itens e utensílios, inflige 1d6 de dano radiante em corruptores.
 - **Antidoto**: Fornece vantagem para resistir a doenças e venenos naturais nos próximos 1d6 turno. Permite  refazer um teste de resistência contra uma doença ou veneno que já esteja afetando o jogador antes do uso da poção.
-- **Bombas**: Pequenos projeteis explosivos que podem ser arremessadas a uma distância igual a 6m +1,5m/Mod. Força.
+- **Bombas**: Pequenos projeteis explosivos que podem ser arremessadas a uma distância igual a 6m +1,5m/Mod. Força. ^123456
 	- **Bomba de Cola**: Uma bomba explode dentro de um espaço de 1,5 metros, o alvo deve resistir a um teste de Destreza CD 10 ou ficara incapacitado por 1d4 turnos, até a cola secar. O alvo pode refazer o teste toda vez que seu turno chegar. 
 	- **Bomba de Fumaça**: Trona o local, em um raio de 6m, da detonação em penumbra e pode fazer alvos dentro da área ficarem atordoados com a fumaça, um teste de resistência de constituição CD 8 anula o efeito atordoante. A fumaça se dispersa em 3 turno e em ventos mais fortes dispersa-a em 1 turno.
 	-  **Bomba de Luz**: Um forte “flahs” de 	luz branca emana do ponto de 	detonação e se expande a até 4,5m, todas as criaturas que puderem ver a	luz ficarão cegas por 1 turno. Resistir a um teste de Constituição CD 10 anula o efeito.
-	- **Bomba Elemental**: Causam uma explosão num diâmetro de 9m, a energia elemental referente é dispersa, causando 3d6 de dano. Um teste de resistência de destreza CD 10 reduzirá o dano pela metade. ^869d01
+	- **Bomba Elemental**: Causam uma explosão num diâmetro de 9m, a energia elemental referente é dispersa, causando 3d6 de dano. Um teste de resistência de destreza CD 10 reduzirá o dano pela metade.  ^169575
 	* **Bomba Explosiva**: Causam 3d6 de dano de contusão e 1d6 de dano flamejante num raio de 3m, nos próximos 3m inflige 2d6 de dano contusivo e nos 3m seguintes, causa 1d6 de dano contusivo, encerrando seu impacto após atingir 9m de raio.  ^0be026
 	* **Bomba Reveladora**: Numa forte explosão de 24m de diâmetro que mais lembra um fogo de artificio que se perdeu no chão, o impacto contorna paredes e muretas, depositando um sedimento brilhoso sobre formas que se mecham, o simples respirar ou andar revelará a presença da pessoa, que emanará uma luz plena de 1,5m e penumbra de 1,5m. Resistir a um teste de Sabedoria CD 10 anula o efeito.
 * **Cura**: Restaura 2d4+3 PV (Ação bônus). Para cada nível acima do primeiro aumenta-se 1d4+1 no efeito da poção. ^bdc2d0

@@ -14,6 +14,8 @@ The age entry notes the age when a member of the race is considered an adult, as
 
 ### Alignment
 
+^686895
+
 Most races have tendencies toward certain alignments, described in this entry. These are not binding for player characters, but considering why your dwarf is chaotic, for example, in defiance of lawful dwarf society can help you better define your character.
 
 ### Size

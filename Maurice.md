@@ -15,9 +15,9 @@ Adventure_Diary:: v1
 
 ||
 ----|:---:|
-**Classe** |  [[Bard|Bardo]]
+**Classe** |  [[Bard\|Bardo]] 
 **Level** |  3
-**Raça** |  [[Gnome, Deep (Svirfneblin)|Gnomo das Profundezas]]
+**Raça** |  [[Gnome, Deep (Svirfneblin)\|Gnomo das Profundezas]]
 **Alinhamento** |  Caótico Neutro
 **Background** |  Artesão Alquimista 
 **Altura** | 110cm
@@ -109,15 +109,15 @@ X | Furtividade | DES |
 
 Veja cada item aqui [[Manual do Alquimista#Produtos]]
 
-- [[Manual do Alquimista#^17c96a|Veneno]]: 4x
+- [[Manual do Alquimista#^17c96a|Veneno]]: 1x
 - [[Manual do Alquimista#^153ff7|Papeis Elementais]]:
-	- 2x elétrico
+	- 1x elétrico
 	- 2x flamejante
-- [[Manual do Alquimista#^869d01|Bombas]]:
-	- [[Manual do Alquimista#^869d01|Bomba Elemental]]: 0x
+- [[Manual do Alquimista#^123456|Bombas]]:
+	- [[Manual do Alquimista#^169575|Bomba Elemental]]: 0x
 	- [[Manual do Alquimista#^0be026|Bomba Explosiva]]: 2x
-- [[Manual do Alquimista#^bdc2d0|Cura]]: 2x
-- [[Manual do Alquimista#^527228|Poção Energética]]: 1x
+- [[Manual do Alquimista#^bdc2d0|Cura]]: 1x
+- [[Manual do Alquimista#^527228|Poção Energética]]: 0x
 - [[Manual do Alquimista#^7eb2a9|Vela da Verdade]]: 1x
 - [[Manual do Alquimista#^13a978|Sopros Elementais]]: 0x
 
@@ -125,7 +125,7 @@ Veja cada item aqui [[Manual do Alquimista#Produtos]]
 #### Dinheiro
 PC | PP | PE  | PO | PL
 :---:|:---:|:---:|:---:|:---:|
-0 | 0 | 0 | 150 | 0 |
+0 | 0 | 0 | 5 | 0 |
 
 
 
