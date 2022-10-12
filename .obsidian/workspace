@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "aa45cd501e91a2a8",
+        "id": "6b86e367f6445ffd",
         "type": "split",
         "children": [
           {
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Magias.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessões/Sessão 1.md",
+                "file": "SkullPort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessões/Sessão 1.md",
+                "file": "SkullPort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessões/Sessão 1.md"
+                "file": "SkullPort.md"
               }
             }
           },
@@ -186,14 +186,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5329bcc1e2b54c8e",
+  "active": "2bc8c4da2a14bd63",
   "lastOpenFiles": [
-    "Excalidraw/Espaços de Magia.excalidraw.md",
     "Sessões/Sessão 1.md",
-    "SkullPort.md",
-    "Magias.md",
-    "Untitled.md",
     "Maurice.md",
+    "Magias.md",
+    "SkullPort.md",
+    "Excalidraw/Espaços de Magia.excalidraw.md",
+    "Untitled.md",
     "Sessões/Sessão 0.md",
     "Frases e Histórias.md",
     "Images/skullport.png",

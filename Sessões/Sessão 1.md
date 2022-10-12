@@ -22,6 +22,10 @@ Felix tem um anel azul e tem uma mão diferente (dedão ao contrário). O contra
 
 Em uma rua da ilha há um crânio em chamas flutuando. Olhando para cima, eu vej um corvo voando e ele parece estranho, há algo de estranho nele. Ele, de repente, começa a descer sobre o barco e parece querer dar um rasante e ele é bem grande. Depois disso, ele voa em direção ao ponto 11. 
 
+### Em SkullPort
+
+#### Dia 1
+
 Uma boa taverna é a Tripas do Jardineiro. Não mencionar que viajamos com o felix. Felix sai andando em direção à taverna O Verme. Ralaster (mago que fez undermountain). 
 
 Entramos na taverna O Verme com o Simbat (todos vão). Feurax (draconato) aparece, está sério. A organização dele (símbolo falcão) preza pelo equilíbrio e quer ajudar a resolver o problmea. A questão do "Ma" (outro presente na reunião). Há alguns anos, Xanathar está tendo problemas de sanidade (paranoia). Ele mandou o mago Palandros buscar uma pedra exremamente preciosa. Palandros apareceu em skullport com a joia e ai fugiu/sumiu e aparentemente foi para undermountain (a dungeon embaixo). Parece um problema também de dentro da guilda. 
@@ -42,6 +46,10 @@ Carroça de repolhos e cogumelos pertencentes a Timbling, que estava desornedada
 Chegamos na estalagem. Através do livro de visitantes, eu e tocha descobrimos algumas coisas interessantes. Visitantes recorrentes (1x/semana Reen). Nenhum Palandros. Há 2 semanas, última data do Palandros, existe um nome que chama a atenção: Sander'Al P. O taverneirose chama Quietude e  é louco por comer pássaros. Ele consegue muitos pássaros por meio do estabelecimento Ratássaro
 
 Um estabelcimento O Baú do Mar fechou pq o dono sumiu (sequestrado/morto?). Marinheiros dizendo que estão ouvindo encantos. 
+
+#### Dia 2
+
+
 
 
 
