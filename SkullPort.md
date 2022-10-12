@@ -29,7 +29,7 @@ A cidade tem 3 níveis (como uma favela) e tudo é meio torto, mal construído. 
 5. Destilaria de Gyudd
 6. O baú do Mar (fechado)
 7. A taverna do Wyvern Caolho*
-8. Timblin & Gimblin: fungos e cogumelos
+8. Timblin & Gimblin: fungos e cogumelos* (timblin me deve um favor)
 9. A espada do saxão
 10. As tripas do jardineiro estalagem*
 11. O ratassaro
@@ -43,5 +43,5 @@ A cidade tem 3 níveis (como uma favela) e tudo é meio torto, mal construído. 
 19. A fortaleza Dalagor (fechada)
 20. Faísca Dumathoin
 21. A urna lambusada
-22. Zilpa's: ervas e poções
+22. Zilpa's: ervas e poções*
 23. O verme oco (restaurante)*

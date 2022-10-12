@@ -35,4 +35,8 @@ Os outros de fora são mão-de-obra dispensável nesse trabalho.
 > NÃO confie em ninguém da guilda além dos menestreis
 \- Simbat 
 
+Voltando para a taverna, o tocha tira uma porca gigante com um monte de coisas encravadas. Repele ataques com um efeito mágico. 
 
+Carroça de repolhos e cogumelos pertencentes a Timbling, que estava desornedada. Eu castei sono e um dos cavalos dormiu. Timbling me deve um favor. 
+
+Chegamos na estalagem. Através do livro de visitantes, eu e tocha descobrimos algumas coisas interessantes. Visitantes recorrentes (1x/semana Reen). Nenhum Palandros. Há 2 semanas, última data do Palandros, existe um nome que chama a atenção: Sander'Al P.
