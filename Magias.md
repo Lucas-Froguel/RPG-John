@@ -20,6 +20,6 @@ Mod Ataque Magias | Proeficiência + Mod Car | 5
 
 #### Nível 2
 
-- **Sussuros Dissonantes** (18m): eu sussuro uma melodia dissonante que apenas uma criatura ouve e precisa realizar um teste de resistência de sabedoria. Se falhar, leva 3d6 de dano psíquico e usa sua reação para fugir
-- [[Scorching Ray|]] (36m): crio três raios de fogo e cada um causa 2d6 de dano de fogo
+- [[Shatter|Sussuros Dissonantes]] (18m): eu sussuro uma melodia dissonante que apenas uma criatura ouve e precisa realizar um teste de resistência de sabedoria. Se falhar, leva 3d6 de dano psíquico e usa sua reação para fugir
+- [[Scorching Ray|Raio Ardente]] (36m): crio três raios de fogo e cada um causa 2d6 de dano de fogo
 
