@@ -4,14 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4014867349d491e8",
+        "id": "fa307a705ee9f755",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "obsidian-leaflet-map-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "925131b5235b177c",
+        "type": "leaf",
+        "state": {
+          "type": "image",
           "state": {
-            "file": "Excalidraw/Espaços de Magia.excalidraw.md",
-            "mode": "preview",
-            "source": false
+            "file": "Images/Pasted image 20221012153154.png"
           }
         }
       }
@@ -77,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Espaços de Magia.excalidraw.md",
+                "file": "Images/Pasted image 20221012153154.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Espaços de Magia.excalidraw.md",
+                "file": "Images/Pasted image 20221012153154.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Espaços de Magia.excalidraw.md"
+                "file": "Images/Pasted image 20221012153154.png"
               }
             }
           },
@@ -136,17 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4014867349d491e8",
+  "active": "925131b5235b177c",
   "lastOpenFiles": [
+    "SkullPort.md",
+    "Excalidraw/Espaços de Magia.excalidraw.md",
     "Maurice.md",
     "Magias.md",
-    "SkullPort.md",
     "Excalidraw/Drawing 2022-10-06 23.12.46.excalidraw.md",
     "Frases e Histórias.md",
     "Frase.md",
     "maurice.png",
     "|locl+hs-med.md",
-    "reference/Gnome.md",
-    "reference/Elf.md"
+    "reference/Gnome.md"
   ]
 }
