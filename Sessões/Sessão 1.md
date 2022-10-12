@@ -47,6 +47,10 @@ Chegamos na estalagem. Através do livro de visitantes, eu e tocha descobrimos a
 
 Um estabelcimento O Baú do Mar fechou pq o dono sumiu (sequestrado/morto?). Marinheiros dizendo que estão ouvindo encantos. 
 
+O kenko e o humano chegam. O humano demorou mais, deve ter ido para algum lugar. Cuidar com ele / investigar. 
+
+
+
 #### Dia 2
 
 

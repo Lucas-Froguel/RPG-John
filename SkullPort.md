@@ -25,7 +25,7 @@ A cidade tem 3 níveis (como uma favela) e tudo é meio torto, mal construído. 
 1. Velho mercado de peixe
 2. Cantinho do morto
 3. ErvaHera penhor*
-4. Taverna o verme*
+4. Taverna o verme* (ok)
 5. Destilaria de Gyudd
 6. O baú do Mar (fechado)
 7. A taverna do Wyvern Caolho*

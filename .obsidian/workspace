@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SkullPort.md",
+                "file": "Sessões/Sessão 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SkullPort.md",
+                "file": "Sessões/Sessão 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SkullPort.md"
+                "file": "Sessões/Sessão 1.md"
               }
             }
           },
@@ -186,17 +186,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2bc8c4da2a14bd63",
+  "active": "5329bcc1e2b54c8e",
   "lastOpenFiles": [
-    "Sessões/Sessão 1.md",
-    "SkullPort.md",
+    "Personagens.md",
     "Maurice.md",
-    "Magias.md",
+    "Images/homemlagarto.png",
+    "homemlargarto.png.md",
+    "Sessões/Sessão 1.md",
     "Excalidraw/Espaços de Magia.excalidraw.md",
-    "Untitled.md",
+    "SkullPort.md",
+    "Magias.md",
     "Sessões/Sessão 0.md",
-    "Frases e Histórias.md",
-    "Images/skullport.png",
-    "Excalidraw/Drawing 2022-10-06 23.12.46.excalidraw.md"
+    "Frases e Histórias.md"
   ]
 }
