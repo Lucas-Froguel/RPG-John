@@ -24,7 +24,7 @@ Inspiração de Bardo Usadas: ^s1LZkEMm
 
 Pontos de Vida Perdidos:  ^AyjhEzQL
 
-0 ^aKnr7Guq
+7 ^aKnr7Guq
 
 0 ^EIB4sa3e
 
@@ -525,8 +525,8 @@ Magias ^LDJIz81I
 		},
 		{
 			"type": "text",
-			"version": 62,
-			"versionNonce": 1238918864,
+			"version": 63,
+			"versionNonce": 1521752031,
 			"isDeleted": false,
 			"id": "aKnr7Guq",
 			"fillStyle": "hachure",
@@ -539,24 +539,24 @@ Magias ^LDJIz81I
 			"y": 259.9877970278196,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 27,
+			"width": 21,
 			"height": 45,
 			"seed": 422080720,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1665592340903,
+			"updated": 1665618072785,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "0",
-			"rawText": "0",
+			"text": "7",
+			"rawText": "7",
 			"baseline": 32,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "0"
+			"originalText": "7"
 		},
 		{
 			"type": "text",
@@ -668,27 +668,27 @@ Magias ^LDJIz81I
 			"pressures": []
 		},
 		{
-			"id": "dAtuLvqM3vRHyzBTOc8Wn",
 			"type": "freedraw",
-			"x": -209.94243504722323,
-			"y": -19.304448504895504,
-			"width": 6.153846153846189,
-			"height": 70.76923076923072,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 32,
+			"versionNonce": 1608725407,
+			"isDeleted": false,
+			"id": "dAtuLvqM3vRHyzBTOc8Wn",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -209.94243504722323,
+			"y": -19.304448504895504,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6.153846153846189,
+			"height": 70.76923076923072,
+			"seed": 946658257,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 946658257,
-			"version": 32,
-			"versionNonce": 1608725407,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665616789541,
 			"link": null,
 			"locked": false,
@@ -818,12 +818,9 @@ Magias ^LDJIz81I
 					70.76923076923072
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0,
-				70.76923076923072
-			]
+			"pressures": []
 		}
 	],
 	"appState": {
