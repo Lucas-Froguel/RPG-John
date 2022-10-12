@@ -104,6 +104,24 @@ X | Furtividade | DES |
 - Roupas de viajante
 - Suprimentos de alquimista
 
+
+#### Itens de alquimia preparados:
+
+Veja cada item aqui [[Manual do Alquimista#Produtos]]
+
+- [[Manual do Alquimista#^17c96a|Veneno]]: 4x
+- [[Manual do Alquimista#^153ff7|Papeis Elementais]]:
+	- 2x elétrico
+	- 2x flamejante
+- [[Manual do Alquimista#^869d01|Bombas]]:
+	- [[Manual do Alquimista#^869d01|Bomba Elemental]]: 0x
+	- [[Manual do Alquimista#^0be026|Bomba Explosiva]]: 2x
+- [[Manual do Alquimista#^bdc2d0|Cura]]: 2x
+- [[Manual do Alquimista#^527228|Poção Energética]]: 1x
+- [[Manual do Alquimista#^7eb2a9|Vela da Verdade]]: 1x
+- [[Manual do Alquimista#^13a978|Sopros Elementais]]: 0x
+
+
 #### Dinheiro
 PC | PP | PE  | PO | PL
 :---:|:---:|:---:|:---:|:---:|
@@ -129,35 +147,11 @@ Level | Espaços de Magia | Magias Conhecidas/Preparadas |
 2 | 2 | 2 |
 
 
-
-#### Nível 0
- - Rajada de Veneno
- - Rajada Mística
-
-
-#### Nível 1
-- **Escudo Arcano** (reação): bônus +5 CA e imunidadde a mísseis mágicos até o início do meu próximo turno
-- **Comando**: teste de resistência de sabedoria ou seguirá meu comando
-- **Palavra Curativa**: uma criatura recupera 1d4 + mod de conjuração
-- **Repreensão Infernal** (reação): a criatura que causou dano em mim faz um teste de resistência de destreza e, caso falhe, leva 2d10 de dano, caso passe, leva metade disso
-
-#### Nível 2
-
-- **Sussuros Dissonantes** (18m): eu sussuro uma melodia dissonante que apenas uma criatura ouve e precisa realizar um teste de resistência de sabedoria. Se falhar, leva 3d6 de dano psíquico e usa sua reação para fugir
-- **Raio Ardenten** (36m): crio três raios de fogo e cada um causa 2d6 de dano de fogo
+Magias conhecidas: [[Magias#Magias Escolhidas]]
+Espaços de Magia: [[Espaços de Magia.excalidraw]]
 
 
 
-
-
-
-
-# Equipment
-CP | SP | EP | GP | PP |
-:---:|:---:|:---:|:---:|:---:|
-|||||
-
-- 
 
 # Personality
 ###### Personality Traits

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4014867349d491e8",
+        "id": "28cc4765b6ce3bb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maurice.md",
-            "mode": "preview",
+            "file": "Magias.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maurice.md",
+                "file": "Magias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maurice.md",
+                "file": "Magias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maurice.md"
+                "file": "Magias.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4014867349d491e8",
+  "active": "28cc4765b6ce3bb2",
   "lastOpenFiles": [
-    "Frases e Histórias.md",
+    "reference/spells/Mage Armor.md",
+    "Magias.md",
     "Maurice.md",
-    "Frase.md",
-    "maurice.png",
-    "|locl+hs-med.md",
-    "reference/Gnome.md",
-    "reference/Elf.md",
-    "reference/Customizing NPCs.md",
-    "reference/Actions in Combat.md",
-    "2022-10-06.md"
+    "Manual do Alquimista^Bomb.md",
+    "Manual do Alquimista.md",
+    "Excalidraw/Espaços de Magia.excalidraw.md",
+    "2022-10-06.md",
+    "Images/Pasted image 20221012013324.png",
+    "Frases e Histórias.md",
+    "Frase.md"
   ]
 }
