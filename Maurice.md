@@ -26,7 +26,7 @@ Adventure_Diary:: v1
 # Stats
 CA | Deslocamento | Iniciativa |
 :---:|:---:|:---:|
- 14 | 7,5m | +5 |
+ 15 | 7,5m | +5 |
 
 Pontos de Vida | Dados de Vida | Pontos de Vida Temporários | 
 :---:|:---:|:---:|

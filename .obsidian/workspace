@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "28cc4765b6ce3bb2",
+        "id": "4014867349d491e8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maurice.md",
+            "file": "Excalidraw/Espaços de Magia.excalidraw.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maurice.md",
+                "file": "Excalidraw/Espaços de Magia.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maurice.md",
+                "file": "Excalidraw/Espaços de Magia.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maurice.md"
+                "file": "Excalidraw/Espaços de Magia.excalidraw.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28cc4765b6ce3bb2",
+  "active": "4014867349d491e8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-10-12 13.30.37.excalidraw.md",
-    "Excalidraw/Espaços de Magia.excalidraw.md",
     "Maurice.md",
-    "reference/monsters/Gnome, Deep (Svirfneblin).md",
-    "Manual do Alquimista.md",
     "Magias.md",
-    "reference/spells/Shatter.md",
-    "reference/spells/Mage Armor.md",
-    "Manual do Alquimista^Bomb.md",
-    "2022-10-06.md"
+    "SkullPort.md",
+    "Excalidraw/Drawing 2022-10-06 23.12.46.excalidraw.md",
+    "Frases e Histórias.md",
+    "Frase.md",
+    "maurice.png",
+    "|locl+hs-med.md",
+    "reference/Gnome.md",
+    "reference/Elf.md"
   ]
 }
