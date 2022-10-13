@@ -59,7 +59,14 @@ O Maximilian foi falar com a Klad e ela parece ter encantado ele.
 
 O tocha é um tipo de gênio meio fake, que pode entrar na lâmpada. Ele tem um contrato com um gênio de verdade. Talvez no fuuro ele consiga melhorar seu contrato. 
 
-A Klad senta conversar conosco. 
+A Klad senta conversar conosco. Ela quer um fio de cabelo nosso em troca de informações. O contratante dela é ... . Tentei usar sugestão 2x e falhei. O Maximilian vazou e não quer dar cabelo. Se ele ficar sabendo de alguma informação que ela nos disser, diz ela, haverão consequências. 
+
+As infos: os hobgoblins que nos atacaram são parte da Mão. A guilda é dividida em 3 partes (disso eu já sabia). Avarine está de baixo de Xanathar, assim como sua guarda pessoal e seu conselheiros (Zebrindes, mago). A Avarine está no topo de cabeça e cuida dos olhos. Cada olho cuida de mãos. Vito Kradini é o líder de uma das mãos. Há 3 olhos, no entanto, as identidades dos líderes são segredos. Simbat é líder uma mão. Entre os olhos há a Cortês, a Mente e os Olhos. Vito responde à Mente, enquanto Simbat responde aos Olhos. 
+
+Sobre o contratante dela: há muitos anos havia um mago poderoso e vivia numa sanidade insana e foi o responsável por criar Undermountain, Halast Blackcloak. Seus interesses são caos. Ele gosta de incentivar o caos. 
+
+Sobre Palandros: o hobby de palandros eram anagramas. Ele entrou em contato com Halast quando chegou em skullport há alguns meses, pois achava que havia infiltrados na guilda e achava que seria inseguro mandar a joia para Xanathar. Ele decidiu tomar um "longo caminho", que era descer pelo labirinto diretamente. Coisas poderosas tendem a afetar mentes fracas e isso pode ter afetado ele e outros. Alguém de dentro da guilda enviou alguém para interceptar Palandros e teve sucesso, porém Palandros assegurou que ninguém além dele acessasse a Pedra. Todas as tentativas de roubar a pedra falharam terrivelmente (com morte). Existe um bau e uma chave. A Mente possui a chave. O baú está perdido (?). O principal agente da Mente é um jovem chamado Hion-Du, contratado por Matgoff (um dos chefes daqui). E Hion-Du está abitando no refúgio de Tanortal. Se subirem ao último andar da ilha, vão encontrar uma aranha. Essa aranha está morta (exosquelete). Tranortal era o drow que morava dentro dessa aranha. Esse agente da Mente mora dentro da aranha.  
+
 
 
 
