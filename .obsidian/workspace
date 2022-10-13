@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manual do Alquimista.md",
-                "mode": "preview",
+                "file": "Sessões/Sessão 1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manual do Alquimista.md",
+                "file": "Sessões/Sessão 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manual do Alquimista.md",
+                "file": "Sessões/Sessão 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manual do Alquimista.md"
+                "file": "Sessões/Sessão 1.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   "active": "5329bcc1e2b54c8e",
   "lastOpenFiles": [
     "Excalidraw/Espaços de Magia.excalidraw.md",
+    "Manual do Alquimista.md",
     "Magias.md",
     "Sessões/Sessão 1.md",
     "Personagens.md",
@@ -196,7 +197,6 @@
     "Images/homemlagarto.png",
     "homemlargarto.png.md",
     "SkullPort.md",
-    "Sessões/Sessão 0.md",
-    "Frases e Histórias.md"
+    "Sessões/Sessão 0.md"
   ]
 }
