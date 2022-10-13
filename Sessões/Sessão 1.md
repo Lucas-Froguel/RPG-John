@@ -49,6 +49,7 @@ Um estabelcimento O Baú do Mar fechou pq o dono sumiu (sequestrado/morto?). Mar
 
 O kenko e o humano chegam. O humano demorou mais, deve ter ido para algum lugar. Cuidar com ele / investigar. 
 
+Emboscada na praça Skull Square por homogoblins. Conhecemos o homem-lagarto ali (Spyd). Decidimos ir para a taverna do Wyvern Caolho. 
 
 
 #### Dia 2
