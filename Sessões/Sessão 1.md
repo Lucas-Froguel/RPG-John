@@ -53,7 +53,14 @@ Emboscada na praça Skull Square por homogoblins. Conhecemos o homem-lagarto ali
 
 O tocha decidiu entrar dentro da porca dele. 
 
+A Klad disse que o hobgobin é o Vito. Ela nos contará mais depois. 
+
 O Maximilian foi falar com a Klad e ela parece ter encantado ele. 
+
+O tocha é um tipo de gênio meio fake, que pode entrar na lâmpada. Ele tem um contrato com um gênio de verdade. Talvez no fuuro ele consiga melhorar seu contrato. 
+
+A Klad senta conversar conosco. 
+
 
 
 #### Dia 2
@@ -70,3 +77,5 @@ As tarefas do Maximilian é monitorar uma mulher chamada Avareen e um angente da
 Eles acham que Palandros está morto em undermountain
 
 Personagem do Samuel tem um totem e é um homem-lagarto. 
+
+O nome de um gênio é uma coisa poderosa
