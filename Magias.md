@@ -10,7 +10,7 @@ Mod Ataque Magias | Proeficiência + Mod Car | 5
 #### Nível 0
  
  - [[Prestidigitation|Presitigitação]] (3m): crio algum efeito mágico 
- - [[Message|Mensagem]] (36m) : Você aponta seu dedo para uma criatura dentro do alcance e sussurra uma mensagem. O alvo (e apenas ele) ouvi a mensagem e pode responder com um sussurro que apenas você pode ouvir.
+ - [[Message|Mensagem]] (36m) : Você aponta seu dedo para uma criatura dentro do alcance e sussurra uma mensagem. O alvo (e apenas ele) ouvi a mensagem e pode responder com um sussurro que apenas você pode ouvir. 
 
 #### Nível 1
 

@@ -49,7 +49,11 @@ Um estabelcimento O Baú do Mar fechou pq o dono sumiu (sequestrado/morto?). Mar
 
 O kenko e o humano chegam. O humano demorou mais, deve ter ido para algum lugar. Cuidar com ele / investigar. 
 
-Emboscada na praça Skull Square por homogoblins. Conhecemos o homem-lagarto ali (Spyd). Decidimos ir para a taverna do Wyvern Caolho. 
+Emboscada na praça Skull Square por homogoblins. Conhecemos o homem-lagarto ali (Spyd). Decidimos ir para a taverna do Wyvern Caolho. Todos ficam quietos quando entramos e o clima fica tenso. Ao lavar minha cara, todos riem. O ... entra, paga uma rodada para todos e isso alivia o clima. Nós comemos. Vemos num dos lados um grupo de hobgoblins, com um gigante em relação aos outros. Se ficarmos até o final, a taverneira, Klad, irá nos contar mais. 
+
+O tocha decidiu entrar dentro da porca dele. 
+
+O Maximilian foi falar com a Klad e ela parece ter encantado ele. 
 
 
 #### Dia 2
