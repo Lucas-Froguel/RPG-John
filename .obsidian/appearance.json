@@ -3,5 +3,6 @@
     "themes"
   ],
   "cssTheme": "ITS Theme",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "accentColor": ""
 }
