@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessões/Sessão 2.md",
+                "file": "SkullPort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessões/Sessão 2.md",
+                "file": "SkullPort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessões/Sessão 2.md"
+                "file": "SkullPort.md"
               }
             }
           },
@@ -186,14 +186,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5329bcc1e2b54c8e",
+  "active": "edaa7576f6dff20f",
   "lastOpenFiles": [
-    "Sessões/Sessão 1.md",
     "Sessões/Sessão 2.md",
+    "Maurice.md",
+    "Sessões/Sessão 1.md",
     "SkullPort.md",
     "Manual do Alquimista.md",
     "Excalidraw/Espaços de Magia.excalidraw.md",
-    "Maurice.md",
     "Magias.md",
     "NPCs.md",
     "Personagens.md",

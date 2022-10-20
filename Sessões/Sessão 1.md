@@ -65,12 +65,9 @@ As infos: os hobgoblins que nos atacaram são parte da Mão. A guilda é dividid
 
 Sobre o contratante dela: há muitos anos havia um mago poderoso e vivia numa sanidade insana e foi o responsável por criar Undermountain, Halast Blackcloak. Seus interesses são caos. Ele gosta de incentivar o caos. 
 
-Sobre Palandros: o hobby de palandros eram anagramas. Ele entrou em contato com Halast quando chegou em skullport há alguns meses, pois achava que havia infiltrados na guilda e achava que seria inseguro mandar a joia para Xanathar. Ele decidiu tomar um "longo caminho", que era descer pelo labirinto diretamente. Coisas poderosas tendem a afetar mentes fracas e isso pode ter afetado ele e outros. Alguém de dentro da guilda enviou alguém para interceptar Palandros e teve sucesso, porém Palandros assegurou que ninguém além dele acessasse a Pedra. Todas as tentativas de roubar a pedra falharam terrivelmente (com morte). Existe um bau e uma chave. A Mente possui a chave. O baú está perdido (?). O principal agente da Mente é um jovem chamado Hion-Du, contratado por Matgoff (um dos chefes daqui). E Hion-Du está abitando no refúgio de Tanortal. Se subirem ao último andar da ilha, vão encontrar uma aranha. Essa aranha está morta (exosquelete). Tranortal era o drow que morava dentro dessa aranha. Esse agente da Mente mora dentro da aranha.  
+Sobre Palandros: o hobby de palandros eram anagramas. Ele entrou em contato com Halast quando chegou em skullport há alguns meses, pois achava que havia infiltrados na guilda e achava que seria inseguro mandar a joia para Xanathar. Ele decidiu tomar um "longo caminho", que era descer pelo labirinto diretamente. Coisas poderosas tendem a afetar mentes fracas e isso pode ter afetado ele e outros. Alguém de dentro da guilda enviou alguém para interceptar Palandros e teve sucesso, porém Palandros assegurou que ninguém além dele acessasse a Pedra. Todas as tentativas de roubar a pedra falharam terrivelmente (com morte). Existe um bau e uma chave. A Mente possui a chave. O baú está perdido (?). O principal agente da Mente é um jovem chamado Hion-Du, contratado por Matgoff (um dos chefes daqui). E Hion-Du está abitando no **refúgio de Tanortal**. Se subirem ao último andar da ilha, vão encontrar uma aranha. Essa aranha está morta (exosquelete). Tranortal era o drow que morava dentro dessa aranha. Esse agente da Mente mora dentro da aranha.  
 
 
-
-
-#### Dia 2
 
 
 
