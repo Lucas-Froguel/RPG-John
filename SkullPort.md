@@ -50,7 +50,8 @@ A cidade tem 3 níveis (como uma favela) e tudo é meio torto, mal construído. 
 ## Guilda dos Assassinos
 Áreas de atuação e organização do Xanathar:
 
-A Cabeça: liderança da guilda
+A Cabeça / A Mente: 
+- Liderança da guilda
 
 O Olho:
 - Contratos
