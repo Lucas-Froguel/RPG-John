@@ -120,7 +120,7 @@ Veja cada item aqui [[Manual do Alquimista#Produtos]]
 	- 2x flamejante
 - [[Manual do Alquimista#^123456|Bombas]]:
 	- [[Manual do Alquimista#^169575|Bomba Elemental]]: 0x
-	- [[Manual do Alquimista#^0be026|Bomba Explosiva]]: 2x
+	- [[Manual do Alquimista#^0be026|Bomba Explosiva]]: 1x
 - [[Manual do Alquimista#^bdc2d0|Cura]]: 1x
 - [[Manual do Alquimista#^527228|Poção Energética]]: 0x
 - [[Manual do Alquimista#^7eb2a9|Vela da Verdade]]: 0x

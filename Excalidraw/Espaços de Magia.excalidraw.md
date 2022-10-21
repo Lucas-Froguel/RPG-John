@@ -24,9 +24,9 @@ Inspiração de Bardo Usadas: ^s1LZkEMm
 
 Pontos de Vida Perdidos:  ^AyjhEzQL
 
-3 ^aKnr7Guq
+6 ^aKnr7Guq
 
-0 ^EIB4sa3e
+1 ^EIB4sa3e
 
 Magias ^LDJIz81I
 
@@ -525,8 +525,8 @@ Magias ^LDJIz81I
 		},
 		{
 			"type": "text",
-			"version": 106,
-			"versionNonce": 360573330,
+			"version": 107,
+			"versionNonce": 1323602766,
 			"isDeleted": false,
 			"id": "aKnr7Guq",
 			"fillStyle": "hachure",
@@ -539,29 +539,29 @@ Magias ^LDJIz81I
 			"y": 244.78417711831736,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 40,
+			"width": 38,
 			"height": 70,
 			"seed": 422080720,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1666314466181,
+			"updated": 1666315176632,
 			"link": null,
 			"locked": false,
 			"fontSize": 55.547511312217196,
 			"fontFamily": 1,
-			"text": "3",
-			"rawText": "3",
+			"text": "6",
+			"rawText": "6",
 			"baseline": 49,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "3"
+			"originalText": "6"
 		},
 		{
 			"type": "text",
-			"version": 91,
-			"versionNonce": 129926226,
+			"version": 92,
+			"versionNonce": 16395538,
 			"isDeleted": false,
 			"id": "EIB4sa3e",
 			"fillStyle": "hachure",
@@ -574,24 +574,24 @@ Magias ^LDJIz81I
 			"y": 143.19229969796675,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 27,
+			"width": 12,
 			"height": 45,
 			"seed": 278017744,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1666313889108,
+			"updated": 1666315173273,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "0",
-			"rawText": "0",
+			"text": "1",
+			"rawText": "1",
 			"baseline": 32,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "0"
+			"originalText": "1"
 		},
 		{
 			"type": "text",
