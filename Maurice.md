@@ -121,16 +121,20 @@ Veja cada item aqui [[Manual do Alquimista#Produtos]]
 - [[Manual do Alquimista#^123456|Bombas]]:
 	- [[Manual do Alquimista#^169575|Bomba Elemental]]: 0x
 	- [[Manual do Alquimista#^0be026|Bomba Explosiva]]: 1x
+	- [[Manual do Alquimista#^268574|Bomba de Luz]]: 1x
+	- [[Manual do Alquimista#^4293d0|Bomba de Fumaça]]: 1x
 - [[Manual do Alquimista#^bdc2d0|Cura]]: 0x
 - [[Manual do Alquimista#^527228|Poção Energética]]: 0x
 - [[Manual do Alquimista#^7eb2a9|Vela da Verdade]]: 0x
 - [[Manual do Alquimista#^13a978|Sopros Elementais]]: 0x
+- [[Manual do Alquimista#^f2dd8a|Maximizador]]: 1x
 
+Receitas: insenso atordoante e dissipador e bomba explosiva
 
 #### Dinheiro
 PC | PP | PE  | PO | PL
 :---:|:---:|:---:|:---:|:---:|
-0 | 0 | 0 | 9 | 0 |
+0 | 0 | 0 | 19 | 0 |
 
 
 
