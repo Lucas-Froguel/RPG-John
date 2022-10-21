@@ -23,11 +23,9 @@
             "id": "edaa7576f6dff20f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "SkullPort.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Espaços de Magia.excalidraw.md"
               }
             }
           }
@@ -56,8 +54,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessões/Sessão 1.md",
-                "mode": "source",
+                "file": "Magias.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -188,12 +186,12 @@
   },
   "active": "f270666764612004",
   "lastOpenFiles": [
-    "Sessões/Sessão 1.md",
     "Sessões/Sessão 2.md",
-    "Maurice.md",
-    "SkullPort.md",
-    "Manual do Alquimista.md",
     "Excalidraw/Espaços de Magia.excalidraw.md",
+    "Sessões/Sessão 1.md",
+    "Maurice.md",
+    "Manual do Alquimista.md",
+    "SkullPort.md",
     "Magias.md",
     "NPCs.md",
     "Personagens.md",

@@ -13,5 +13,9 @@ Decidimos ir para o refúgio de Tanortal. A aranha tem cerca de 20-30m. Tem vár
 
 Conseguimos subir na aranha. Eu subi nas costas do Speedy (lagarto) e o pico-negro escalou. Os outros dois subiram . 
 
+Loga conversa com o Hion-Du. Ele me manipula para descobrir informações. Trabalha para o Vito (e eu falei mal do vito). Ele conhece Palandros, mas não disse nada novo. Ele ficou interessado quando eu disse que sabemos onde o baú está e nos atacou. 
+
+
+
 
 # Coisas que não sei
