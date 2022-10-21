@@ -24,7 +24,7 @@ Inspiração de Bardo Usadas: ^s1LZkEMm
 
 Pontos de Vida Perdidos:  ^AyjhEzQL
 
-6 ^aKnr7Guq
+2 ^aKnr7Guq
 
 2 ^EIB4sa3e
 
@@ -525,8 +525,8 @@ Magias ^LDJIz81I
 		},
 		{
 			"type": "text",
-			"version": 107,
-			"versionNonce": 1323602766,
+			"version": 108,
+			"versionNonce": 1566518418,
 			"isDeleted": false,
 			"id": "aKnr7Guq",
 			"fillStyle": "hachure",
@@ -539,24 +539,24 @@ Magias ^LDJIz81I
 			"y": 244.78417711831736,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 38,
+			"width": 42,
 			"height": 70,
 			"seed": 422080720,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1666315176632,
+			"updated": 1666319769455,
 			"link": null,
 			"locked": false,
 			"fontSize": 55.547511312217196,
 			"fontFamily": 1,
-			"text": "6",
-			"rawText": "6",
+			"text": "2",
+			"rawText": "2",
 			"baseline": 49,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "6"
+			"originalText": "2"
 		},
 		{
 			"type": "text",
