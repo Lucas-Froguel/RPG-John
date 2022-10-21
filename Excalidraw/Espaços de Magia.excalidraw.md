@@ -26,7 +26,7 @@ Pontos de Vida Perdidos:  ^AyjhEzQL
 
 6 ^aKnr7Guq
 
-1 ^EIB4sa3e
+2 ^EIB4sa3e
 
 Magias ^LDJIz81I
 
@@ -560,8 +560,8 @@ Magias ^LDJIz81I
 		},
 		{
 			"type": "text",
-			"version": 92,
-			"versionNonce": 16395538,
+			"version": 93,
+			"versionNonce": 1566184466,
 			"isDeleted": false,
 			"id": "EIB4sa3e",
 			"fillStyle": "hachure",
@@ -574,24 +574,24 @@ Magias ^LDJIz81I
 			"y": 143.19229969796675,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 12,
+			"width": 28,
 			"height": 45,
 			"seed": 278017744,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1666315173273,
+			"updated": 1666317280826,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "1",
-			"rawText": "1",
+			"text": "2",
+			"rawText": "2",
 			"baseline": 32,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1"
+			"originalText": "2"
 		},
 		{
 			"type": "text",

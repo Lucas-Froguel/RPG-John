@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maurice.md",
+                "file": "Sessões/Sessão 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maurice.md",
+                "file": "Sessões/Sessão 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maurice.md"
+                "file": "Sessões/Sessão 2.md"
               }
             }
           },
@@ -184,7 +184,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f270666764612004",
+  "active": "5329bcc1e2b54c8e",
   "lastOpenFiles": [
     "Excalidraw/Espaços de Magia.excalidraw.md",
     "Maurice.md",
