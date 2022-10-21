@@ -14,5 +14,4 @@ Decidimos ir para o refúgio de Tanortal. A aranha tem cerca de 20-30m. Tem vár
 Conseguimos subir na aranha. Eu subi nas costas do Speedy (lagarto) e o pico-negro escalou. Os outros dois subiram . 
 
 
-
 # Coisas que não sei
