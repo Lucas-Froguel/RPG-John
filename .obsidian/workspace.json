@@ -14,40 +14,37 @@
               "type": "markdown",
               "state": {
                 "file": "Maurice.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "7a04cd54a4883448",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e9dbe8442a911855",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e2b5ecb7e6035ab5",
+            "id": "3fbf9e4d614d1708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magias.md",
+                "file": "Sessões/Sessão 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eac22209db2f924b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Jogadores.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maurice.md",
+                "file": "Sessões/Sessão 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maurice.md",
+                "file": "Sessões/Sessão 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maurice.md"
+                "file": "Sessões/Sessão 1.md"
               }
             }
           },
@@ -172,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5329bcc1e2b54c8e",
+  "active": "3fbf9e4d614d1708",
   "lastOpenFiles": [
-    "Magias.md",
     "Maurice.md",
-    "Buttons 1.0 is Coming.md",
+    "Personagens/Jogadores.md",
     "Sessões/Sessão 1.md",
-    "Frase.md",
-    "Sessões/Sessão 0.md",
+    "Frases e Histórias.md",
+    "Magias.md",
     "Manual do Alquimista.md",
-    "Excalidraw/Espaços de Magia.excalidraw.md",
-    "SkullPort.md",
-    "NPCs.md"
+    "Sessões/Sessão 2.md",
+    "Buttons 1.0 is Coming.md",
+    "Frase.md",
+    "Sessões/Sessão 0.md"
   ]
 }
