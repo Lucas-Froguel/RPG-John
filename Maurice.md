@@ -16,7 +16,7 @@ Adventure_Diary:: v1
 ||
 ----|:---:|
 **Classe** |  [[Bard\|Bardo]] 
-**Level** |  3
+**Level** |  4
 **Raça** |  [[Gnome, Deep (Svirfneblin)\|Gnomo das Profundezas]]
 **Alinhamento** |  Caótico Neutro
 **Background** |  Artesão Alquimista 
@@ -151,9 +151,9 @@ Mod Ataque Magias | Proeficiência + Mod Car | 5
 
 Level | Espaços de Magia | Magias Conhecidas/Preparadas |
 :---:|:---:|:---:|
-0 | $\infty$ | 2 |
+0 | $\infty$ | 3 |
 1 | 4 | 4 |
-2 | 2 | 2 |
+2 | 3 | 3 |
 
 
 Magias conhecidas: [[Magias#Magias Escolhidas]]

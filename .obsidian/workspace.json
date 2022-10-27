@@ -4,101 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "6b86e367f6445ffd",
-        "type": "split",
+        "id": "db51c204f84685bf",
+        "type": "tabs",
         "children": [
           {
-            "id": "db51c204f84685bf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5329bcc1e2b54c8e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Sessões/Sessão 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "deff050ef2145b2f",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.0.0"
-                  }
-                }
+            "id": "5329bcc1e2b54c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maurice.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "f9a37f684b3adb0d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "edaa7576f6dff20f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Manual do Alquimista.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "7a04cd54a4883448",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
-        "id": "1514dc80a11b1bcc",
-        "type": "split",
+        "id": "e9dbe8442a911855",
+        "type": "tabs",
         "children": [
           {
-            "id": "0d1619d9a4466794",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f270666764612004",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Maurice.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "e2b5ecb7e6035ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magias.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "77662c7ca09e7213",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2bc8c4da2a14bd63",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SkullPort.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessões/Sessão 1.md",
+                "file": "Maurice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessões/Sessão 1.md",
+                "file": "Maurice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessões/Sessão 1.md"
+                "file": "Maurice.md"
               }
             }
           },
@@ -223,20 +172,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "deff050ef2145b2f",
+  "active": "5329bcc1e2b54c8e",
   "lastOpenFiles": [
-    "Excalidraw/Espaços de Magia.excalidraw.md",
-    "Sessões/Sessão 1.md",
-    "SkullPort.md",
-    "Maurice.md",
-    "Manual do Alquimista.md",
     "Magias.md",
-    "NPCs.md",
-    "Personagens.md",
-    "Frases e Histórias.md",
-    "Images/homemlagarto.png"
+    "Maurice.md",
+    "Buttons 1.0 is Coming.md",
+    "Sessões/Sessão 1.md",
+    "Frase.md",
+    "Sessões/Sessão 0.md",
+    "Manual do Alquimista.md",
+    "Excalidraw/Espaços de Magia.excalidraw.md",
+    "SkullPort.md",
+    "NPCs.md"
   ]
 }
