@@ -1,0 +1,3 @@
+Nós pegamos o caderno de anotações (diário) do Hiun-Du e levamos as cartas dele em volta também. Nós cortamos o corpo dele e colocamos na porca do [[Personagens#Tocha (Danyel)|Tocha]]. 
+
+O [[Personagens#O Kenko (Bryan)|Pico-Negro]] se disfarça como Hiun-Du e sai correndo. O Tocha sai correndo atrás dele. Vê um corvo seguindo eles e atira nele, o corvo de desfaz em energia. Dois hobgoblins veem o "Hiun-Du". O Pico-Negro se disfarça quando entra no escuro de uma caverninha e os hobgloblins perdeem ele de vista, aí ele faz uma acobracia pra subir no andar superior e quebra o disfarce. Sai andando normalmente. Porém, eles veem o Tocha, que está correndo desesperado. Ele tenta entrar num prédio abandonado pra fugir para outro palanque. 

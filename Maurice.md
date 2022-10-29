@@ -83,6 +83,8 @@ X | Furtividade | DES |
 - [[bard#^d0b0e3|Colégio do Conhecimento]]: 
 	- +3 proeficiências
 	- **Palavras de Interrupção:** reação, uso de inspiração de bardo, afeta uma criatura que possa me ouvir até 18m, em qualquer rolagem dela subtrai 1D6. 
+- **[[Feats|Talentos]]**
+	- **Especialista em besta**: ignora a recarga, então pode atacar várias vezes se vc puder, não tem desvantagem em ataques próximos, posso atacar com uma arma de mão e, como ação bônus, atirar com a besta
 
 ## Proeficiências
 - [[Armor|Armadura]]: Armaduras Leves
@@ -130,6 +132,13 @@ Veja cada item aqui [[Manual do Alquimista#Produtos]]
 - [[Manual do Alquimista#^f2dd8a|Maximizador]]: 1x
 
 Receitas: insenso atordoante e dissipador e bomba explosiva
+
+[[Manual do Alquimista#Materiais|Componentes para alquimia]]:
+- 500ml Extrato Vegetal
+- 10ml Ectoessência
+- 700ml Componente de Morto (embrulado com o sinal do cantinho do morto)
+- 350ml Sebo de morto
+- 700ml Fonte Mineral
 
 #### Dinheiro
 PC | PP | PE  | PO | PL

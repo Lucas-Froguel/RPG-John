@@ -17,18 +17,22 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sessões/Sessão 1.md",
+                    "file": "Sessões/Sessão 2.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "2c850bd79b902ec1",
+                "id": "2352847512e3f25a",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessões/Sessão 3.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ],
@@ -44,7 +48,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Manual do Alquimista.md",
+                    "file": "Magias.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -162,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Magias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Magias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Magias.md"
+              }
             }
           },
           {
@@ -220,17 +228,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2c850bd79b902ec1",
+  "active": "edaa7576f6dff20f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Sessões/Sessão 1.md",
-    "Excalidraw/Espaços de Magia.excalidraw.md",
-    "SkullPort.md",
-    "Maurice.md",
-    "Manual do Alquimista.md",
+    "Sessões/Sessão 3.md",
+    "Sessões/Sessão 2.md",
     "Magias.md",
-    "NPCs.md",
-    "Personagens.md",
-    "Frases e Histórias.md"
+    "Maurice.md",
+    "Excalidraw/Insígnia Hiun-Du.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "Manual do Alquimista.md",
+    "SkullPort.md",
+    "Excalidraw/Espaços de Magia.excalidraw.md",
+    "Sessões/Sessão 1.md"
   ]
 }

@@ -15,11 +15,13 @@ Conseguimos subir na aranha. Eu subi nas costas do Speedy (lagarto) e o pico-neg
 
 Loga conversa com o Hion-Du. Ele me manipula para descobrir informações. Trabalha para o Vito (e eu falei mal do vito). Ele conhece Palandros, mas não disse nada novo. Ele ficou interessado quando eu disse que sabemos onde o baú está e nos atacou. 
 
-Mente é Nikilor. Segunda torre dos gárgulas na ilha. Ele não sabe onde está a chave. Ela foi feita na forja. Baú do mar, arquivos. Planos do drow que fez essas coisa. Cuidado com a Mente. Ele quer recuperar a pedra (do palandros), mas não para a Mente. Nós matamos o Hiun-Du. 
+Mente é Nikilor. Segunda torre dos gárgulas na ilha. Ele não sabe onde está a chave (**o Nikilor tem ela**). Ela foi feita na forja. Baú do mar (local onde o baú e a chave foram feitos), arquivos. Planos do drow que fez essas coisa. Cuidado com a Mente. Ele quer recuperar a pedra (do palandros), mas não para a Mente. Nós matamos o Hiun-Du. 
 
 Carta ao Hiun-Du:
 > Se você deseja voltar para casa, preciso que você nos traga o artefato
 \- Humuncolo
+
+
 
 
 

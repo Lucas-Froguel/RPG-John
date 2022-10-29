@@ -52,6 +52,7 @@ A cidade tem 3 níveis (como uma favela) e tudo é meio torto, mal construído. 
 
 A Cabeça / A Mente: 
 - Liderança da guilda
+- Mente é Nikilor (segundo Hiun-Du) e habita na segunda torre dos gárgulas da ilha e ele é quem tem a chave do baú
 
 O Olho:
 - Contratos
