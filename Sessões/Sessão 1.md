@@ -12,7 +12,7 @@ Taverna há oeste dos portos chamada Gato Pelado. Indivíduo conversando com a t
 
 Taverna Pipin o Marujo - perto das docas, porém afastada e elevada.  Felix está jogando dados com um gnomo (eu?). O jogo tem 4 dados e a ideia é adivinhar quantos dados de um número serão virados. 
 
-Humano careca barbudo chamado Maximilian. Quer viajar com a gente para skullport. 
+Humano careca barbudo chamado [[Jogadores#Maximilian (Thomas)|Maximilian]]. Quer viajar com a gente para skullport. 
 
 Kenko preto com manto de veludo, marca de uma asa de corvo na manga esquerda, colar de um pequeno corvo prateado e mochila nas costas. Irá viajar conosco. Aparentemente é a carga. 
 

@@ -24,27 +24,15 @@
                 }
               },
               {
-                "id": "deff050ef2145b2f",
+                "id": "2c850bd79b902ec1",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.0.0"
-                  }
-                }
-              },
-              {
-                "id": "653e1a3eb34cc484",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.0.0"
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "f9a37f684b3adb0d",
@@ -174,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessões/Sessão 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessões/Sessão 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,13 +199,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sessões/Sessão 1.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "3c8c7c69909e6452",
+            "id": "be439287ab1488d8",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -236,17 +220,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "653e1a3eb34cc484",
+  "active": "2c850bd79b902ec1",
   "lastOpenFiles": [
-    "Excalidraw/Espaços de Magia.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Sessões/Sessão 1.md",
+    "Excalidraw/Espaços de Magia.excalidraw.md",
     "SkullPort.md",
     "Maurice.md",
     "Manual do Alquimista.md",
     "Magias.md",
     "NPCs.md",
     "Personagens.md",
-    "Frases e Histórias.md",
-    "Images/homemlagarto.png"
+    "Frases e Histórias.md"
   ]
 }
