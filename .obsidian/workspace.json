@@ -32,9 +32,19 @@
                     "currentVersion": "1.0.0"
                   }
                 }
+              },
+              {
+                "id": "653e1a3eb34cc484",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.0.0"
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "f9a37f684b3adb0d",
@@ -226,7 +236,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "deff050ef2145b2f",
+  "active": "653e1a3eb34cc484",
   "lastOpenFiles": [
     "Excalidraw/Espaços de Magia.excalidraw.md",
     "Sessões/Sessão 1.md",

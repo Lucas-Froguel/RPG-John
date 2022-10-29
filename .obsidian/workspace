@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Espaços de Magia.excalidraw.md",
+                "file": "Sessões/Sessão 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Espaços de Magia.excalidraw.md",
+                "file": "Sessões/Sessão 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Espaços de Magia.excalidraw.md"
+                "file": "Sessões/Sessão 2.md"
               }
             }
           },
@@ -184,11 +184,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edaa7576f6dff20f",
+  "active": "5329bcc1e2b54c8e",
   "lastOpenFiles": [
+    "Excalidraw/Espaços de Magia.excalidraw.md",
     "Maurice.md",
     "Sessões/Sessão 2.md",
-    "Excalidraw/Espaços de Magia.excalidraw.md",
     "Sessões/Sessão 1.md",
     "Manual do Alquimista.md",
     "SkullPort.md",
