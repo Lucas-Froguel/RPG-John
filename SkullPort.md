@@ -23,7 +23,7 @@ A cidade tem 3 níveis (como uma favela) e tudo é meio torto, mal construído. 
 
 #### Lugares de Skullport
 1. Velho mercado de peixe
-2. Cantinho do morto
+2. Cantinho do morto ^384f50
 3. ErvaHera penhor*
 4. Taverna o verme* (ok)
 5. Destilaria de Gyudd

@@ -8,4 +8,4 @@ As gavetas do balcão estão reviradas. Papeis jogados no chão com anotações 
 
 Fiz uma luz la dentro da sala e o dono da voz ficou nervoso  e gritou "não, não, não". O Spyd tentou fazer um buraco, um pouco maior, eu tentei entrar mas fiquei preso. Eu vejo um cara em um canto em posição fetal (parece ser o drow dono daqui), com um cabelo desfeito e totalmente doido: olhos brancos, pele pálida e seca. Em volta dele o chão parece uma nuvem de vermes (e são rápidos). 
 
-
+Lutamos com os vermes e matamos vários deles. De repente, aparece uma bruxa (hag) que dá um trabalho. Deixo ela cega por 1 turno. O saco dela tem uma marca de mão [[Símbolo Saco Bruxa.excalidraw|Marca Bruxa]] que é o símbolo da [[SkullPort#^384f50|O Cantinho do Morto]]. 
