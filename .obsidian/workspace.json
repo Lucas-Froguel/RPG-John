@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maurice.md",
+                "file": "Sessões/Sessão 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maurice.md",
+                "file": "Sessões/Sessão 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maurice.md"
+                "file": "Sessões/Sessão 3.md"
               }
             }
           },
@@ -228,13 +228,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f270666764612004",
+  "active": "2352847512e3f25a",
   "lastOpenFiles": [
-    "Sessões/Sessão 3.md",
-    "SkullPort.md",
     "Magias.md",
-    "Sessões/Sessão 2.md",
+    "Sessões/Sessão 3.md",
     "Maurice.md",
+    "SkullPort.md",
+    "Sessões/Sessão 2.md",
     "Excalidraw/Insígnia Hiun-Du.excalidraw.md",
     "Excalidraw/Untitled.md",
     "Manual do Alquimista.md",
