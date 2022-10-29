@@ -30,7 +30,7 @@ CA | Deslocamento | Iniciativa |
 
 Pontos de Vida | Dados de Vida | Pontos de Vida Temporários | 
 :---:|:---:|:---:|
-17 | 3D8 | 0 |
+23 | 3D8 | 0 |
 
 ||
 ----|:----:|

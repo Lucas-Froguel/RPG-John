@@ -18,13 +18,13 @@ Usados ^wytRchh7
 
 4 ^vHSrAYrC
 
-2 ^auca5NQc
+3 ^auca5NQc
 
 Inspiração de Bardo Usadas: ^s1LZkEMm
 
 Pontos de Vida Perdidos:  ^AyjhEzQL
 
-2 ^aKnr7Guq
+15 ^aKnr7Guq
 
 2 ^EIB4sa3e
 
@@ -420,8 +420,8 @@ Magias ^LDJIz81I
 		},
 		{
 			"type": "text",
-			"version": 45,
-			"versionNonce": 1551044818,
+			"version": 46,
+			"versionNonce": 546387530,
 			"isDeleted": false,
 			"id": "auca5NQc",
 			"fillStyle": "hachure",
@@ -434,24 +434,24 @@ Magias ^LDJIz81I
 			"y": -156.125,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 39,
+			"width": 38,
 			"height": 67,
 			"seed": 500748825,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1666313889108,
+			"updated": 1667074693717,
 			"link": null,
 			"locked": false,
 			"fontSize": 52.49999999999997,
 			"fontFamily": 1,
-			"text": "2",
-			"rawText": "2",
+			"text": "3",
+			"rawText": "3",
 			"baseline": 47,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "2"
+			"originalText": "3"
 		},
 		{
 			"type": "text",
@@ -525,8 +525,8 @@ Magias ^LDJIz81I
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 1566518418,
+			"version": 112,
+			"versionNonce": 1904288534,
 			"isDeleted": false,
 			"id": "aKnr7Guq",
 			"fillStyle": "hachure",
@@ -539,24 +539,24 @@ Magias ^LDJIz81I
 			"y": 244.78417711831736,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 42,
+			"width": 51,
 			"height": 70,
 			"seed": 422080720,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1666319769455,
+			"updated": 1667075110920,
 			"link": null,
 			"locked": false,
 			"fontSize": 55.547511312217196,
 			"fontFamily": 1,
-			"text": "2",
-			"rawText": "2",
+			"text": "15",
+			"rawText": "15",
 			"baseline": 49,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "2"
+			"originalText": "15"
 		},
 		{
 			"type": "text",
@@ -786,6 +786,180 @@ Magias ^LDJIz81I
 			"lastCommittedPoint": null,
 			"simulatePressure": true,
 			"pressures": []
+		},
+		{
+			"id": "SyaZhgAJYxKL4XsmjDpd4",
+			"type": "freedraw",
+			"x": -51.990511970300076,
+			"y": 35.842313563734535,
+			"width": 8.333333333333258,
+			"height": 85,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 507441750,
+			"version": 36,
+			"versionNonce": 1334796490,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1667074686953,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.6666666666666288,
+					-1.6666666666666856
+				],
+				[
+					3.3333333333332575,
+					-3.3333333333333712
+				],
+				[
+					3.3333333333332575,
+					-8.333333333333371
+				],
+				[
+					3.3333333333332575,
+					-11.666666666666686
+				],
+				[
+					3.3333333333332575,
+					-15
+				],
+				[
+					5,
+					-20
+				],
+				[
+					6.666666666666629,
+					-21.666666666666686
+				],
+				[
+					6.666666666666629,
+					-23.33333333333337
+				],
+				[
+					6.666666666666629,
+					-25
+				],
+				[
+					6.666666666666629,
+					-26.666666666666686
+				],
+				[
+					6.666666666666629,
+					-30
+				],
+				[
+					6.666666666666629,
+					-33.33333333333337
+				],
+				[
+					6.666666666666629,
+					-36.666666666666686
+				],
+				[
+					6.666666666666629,
+					-38.33333333333337
+				],
+				[
+					6.666666666666629,
+					-40
+				],
+				[
+					6.666666666666629,
+					-45
+				],
+				[
+					6.666666666666629,
+					-46.666666666666686
+				],
+				[
+					6.666666666666629,
+					-48.33333333333337
+				],
+				[
+					6.666666666666629,
+					-51.666666666666686
+				],
+				[
+					8.333333333333258,
+					-53.33333333333337
+				],
+				[
+					8.333333333333258,
+					-55
+				],
+				[
+					8.333333333333258,
+					-56.666666666666686
+				],
+				[
+					8.333333333333258,
+					-60
+				],
+				[
+					8.333333333333258,
+					-61.666666666666686
+				],
+				[
+					8.333333333333258,
+					-63.33333333333337
+				],
+				[
+					8.333333333333258,
+					-68.33333333333337
+				],
+				[
+					8.333333333333258,
+					-71.66666666666669
+				],
+				[
+					8.333333333333258,
+					-75
+				],
+				[
+					8.333333333333258,
+					-76.66666666666669
+				],
+				[
+					8.333333333333258,
+					-78.33333333333337
+				],
+				[
+					8.333333333333258,
+					-80
+				],
+				[
+					8.333333333333258,
+					-81.66666666666669
+				],
+				[
+					8.333333333333258,
+					-85
+				],
+				[
+					8.333333333333258,
+					-85
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				8.333333333333258,
+				-85
+			]
 		}
 	],
 	"appState": {
