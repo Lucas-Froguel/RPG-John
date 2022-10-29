@@ -15,5 +15,19 @@ Começamos a procurar a sala dele com os livros. Eu acho um mecanismo numa estan
 Sobre o **Baú de Mithril** (de acordo com o livro):
 > No baú tem runas de proteção contra divinação e um fail safe que leva o item ao plano etéreo se for ativado
 
+O Simbat me chamou para a taverna. Um poema é dito por um bardo:
+> De todos os livros 
+   E segredos não revelados
+   Na terceira torre
+   Os gárgulas são calados
+   > Nas lendas e histórias
+   1346 glórias
+   O pequeno sinal
+   Guarda seu destino
+   Pequeno menestral
+   As melhores histórias
+   São as que nós carregamos nos próprios olhos
 
+Eu deduzo que é dito de skullisland, onde hpa gárgulas. Na terceira torre, os gárgulas são calados. As 1346 glórias se referem a uma seção de uma biblioteca (um livro específico). 
 
+Na estalagem, o Spyd encontra um papagaio que é dos amigos dele. 

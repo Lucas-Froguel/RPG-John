@@ -18,7 +18,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Sessões/Sessão 3.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -227,9 +227,9 @@
   },
   "active": "5329bcc1e2b54c8e",
   "lastOpenFiles": [
-    "Excalidraw/Espaços de Magia.excalidraw.md",
-    "Sessões/Sessão 3.md",
     "SkullPort.md",
+    "Sessões/Sessão 3.md",
+    "Excalidraw/Espaços de Magia.excalidraw.md",
     "Manual do Alquimista.md",
     "Magias.md",
     "Maurice.md",
