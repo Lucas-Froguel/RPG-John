@@ -27,8 +27,8 @@ A cidade tem 3 níveis (como uma favela) e tudo é meio torto, mal construído. 
 3. ErvaHera penhor*
 4. Taverna o verme* (ok)
 5. Destilaria de Gyudd
-6. O baú do Mar (fechado)
-7. A taverna do Wyvern Caolho*
+6. O baú do Mar (fechado) (ok)
+7. A taverna do Wyvern Caolho* (ok)
 8. Timblin & Gimblin: fungos e cogumelos* (timblin me deve um favor)
 9. A espada do saxão
 10. As tripas do jardineiro estalagem*
