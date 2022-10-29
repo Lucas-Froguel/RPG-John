@@ -110,6 +110,7 @@ X | Furtividade | DES |
 	- 16: uma velha carta de adivinhação com sua aparência
 	- 62: um crânio de prata do tamanho de uma moeda
 	- 40: uma pedra preciosa que parece carvão para todos exceto eu
+- Saco da bruxa com a marca [[Símbolo Saco Bruxa.excalidraw|Marca]], [[Sessão 3#^f6de82|Origem do Saco]]. 
 
 
 #### Itens de alquimia preparados:
